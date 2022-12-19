@@ -30,7 +30,7 @@ const cartItems = [
   {
     id: 'recwTo280dSs3PIoW',
     title: 'Iphone 14 PRO MAX',
-    price: '1.299.99 ',
+    price: '1299.99 ',
     img: 'https://macshop.ro/wp-content/uploads/2022/09/iphone14promax_1tb_gold.jpeg',
     amount: 1,
   },
