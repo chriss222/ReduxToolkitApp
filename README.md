@@ -1,4 +1,5 @@
-# Redux Toolkit
+Simple app that i created in the process of learning Redux Toolkit
+# Redux Toolkit Simple App
 
 #### Install Template
 
@@ -11,24 +12,3 @@ npx create-react-app my-app --template redux
 ```sh
 npx create-react-app@latest my-app --template redux
 ```
-
-#### Existing App
-
-```sh
-npm install @reduxjs/toolkit react-redux
-```
-
-#### @reduxjs/toolkit
-
-consists of few libraries
-
-- redux (core library, state management)
-- immer (allows to mutate state)
-- redux-thunk (handles async actions)
-- reselect (simplifies reducer functions)
-
-#### Extras
-
-- redux devtools
-- combine reducers
-
